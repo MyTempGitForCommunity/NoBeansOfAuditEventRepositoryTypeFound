@@ -8,13 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class AppController
 {
-    private final AuditEventRepository auditEventRepository;
-
     @Autowired
-    public AppController(AuditEventRepository auditEventRepository)
-    {
-        this.auditEventRepository = auditEventRepository;
-    }
+    private AuditEventRepository auditEventRepository;
 
     @RequestMapping("/public")
     public String publicResource()
