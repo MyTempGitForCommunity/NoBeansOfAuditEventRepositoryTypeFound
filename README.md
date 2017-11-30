@@ -1,3 +1,6 @@
+Bug screenrecord: https://youtu.be/KyvitXRS7AE <br>
+IntelliJ community request: https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000716544-No-beans-of-AuditEventRepository-type-found-Spring-Boot-and-Actuator-1-5-9-RELEASE <br>
+<br>
 Spring Boot and Actuator 1.5.9.RELEASE<br>
 <br>
 IntelliJ IDEA 2017.2.6<br>
